@@ -9,6 +9,4 @@ Java metamā kauliņa projekts, kurš versionēts ar Git
 - [x] Izveidot GitHub repo
 - [x] Lokālais projekts izveidots GitHub
 - [] Papildinātais GitHub krātuves saturs iegūts lokālai lietošanai
-- [] Projektam pieslēdzies vēl viens programmētājs un izmēģināta kopdarbošanaāš (forking un clone)
-- [] Projektā izveidots jauns zars(branch)
-- [] Sapludināti zari un novērsts merge konflikts
+...
