@@ -21,6 +21,7 @@ public class Kaulins {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
+
 		List<Integer> pedejie = new ArrayList<Integer>();
 		int reizes, izvele;
 		do{
@@ -46,3 +47,4 @@ public class Kaulins {
 
 }
 }
+
